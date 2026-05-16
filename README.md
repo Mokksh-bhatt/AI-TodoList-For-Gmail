@@ -7,6 +7,9 @@ Kill email friction. This Chrome extension auto-extracts action items buried in 
 * **Zero Friction:** No manual copying or typing required.
 * **Seamless Workflow:** Logs action items so nothing slips through the cracks.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/33055461-dfa6-4295-820d-facdb54c7d94" />
+
+
 ## Installation
 1. Install the extension from the [Chrome Web Store](#).
 2. Pin the extension to your browser toolbar.
